@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [ICAD](https://github.com/harshil-darji/ICAD)  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning React along with Redux
   
 
 - ❓ Ask me about anything related to MEAN stack  
