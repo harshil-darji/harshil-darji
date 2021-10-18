@@ -6,10 +6,10 @@
 ### <div align="center">I'm Harshil, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Parrotfolio. It's a surprise project! ;)  
+- 🔭 I’m currently working on Ubereats. It's a class project! :D
   
 
-- 🌱 I’m currently learning [golang](https://github.com/golang/go)
+- 🌱 I’m currently sharpening my algorithms.
   
 
 - ❓ Ask me about anything related to MEAN stack  
