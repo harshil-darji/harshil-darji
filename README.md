@@ -59,6 +59,10 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://harshil-darji.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/-Portfolio-green?&style=for-the-badge alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+
 <a href="https://github.com/harshil-darji" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
