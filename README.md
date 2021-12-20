@@ -6,13 +6,13 @@
 ### <div align="center">I'm Harshil, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Ubereats. It's a class project! :D
+- 🔭 I’m currently working on getting a job! :D
   
 
-- 🌱 I’m currently sharpening my algorithms.
+- 🌱 I’m currently sharpening my data structures.
   
 
-- ❓ Ask me about anything related to MEAN stack  
+- ❓ Ask me about anything related to MERN stack. 
   
 
 - ⚡ Fun fact: Awesome is my favorite word and I am...  
