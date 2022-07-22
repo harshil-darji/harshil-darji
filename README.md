@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Harshil, a full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Harshil, a guy living in the cloud world! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on getting a job! :D
+- 🔭 I’m currently working at Amazon Web Services (AWS) :D
   
 
-- 🌱 I’m currently sharpening my data structures.
+- 🌱 I am also working on my Master's project.
   
 
 - ❓ Ask me about anything related to MERN stack. 
